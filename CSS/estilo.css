@@ -1,0 +1,18 @@
+#sobre{
+    width: 50%;
+    color: crimson;
+    border-color: crimson;
+}
+#exp{
+    width: 50%;
+    color: crimson;
+    border-color: crimson;
+}
+#title{
+    color: crimson;
+}
+#salvar{
+    background-color: crimson;
+    position: static;
+    left: 70px;
+}
